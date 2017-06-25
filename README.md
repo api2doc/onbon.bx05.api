@@ -31,7 +31,7 @@
 
 - simple-xml-2.7.1.jar
 
-- uia.comm-0.2.1.jar
+- uia.comm-__x.x.x__.jar (__x.x.x__ 由各版本決定)
 
 - uia.message-__x.x.x__.jar (__x.x.x__ 由各版本決定)
 
