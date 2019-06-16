@@ -1,7 +1,7 @@
  onbon bx05 api
 =====================
 
-最新版本 [Version 0.5.0-UDPATE.3](https://github.com/api2doc/onbon.bx05.api/releases/tag/v0.5.0-UPDATE.3)
+最新版本 [Version 0.5.0-UDPATE.6](https://github.com/api2doc/onbon.bx05.api/releases/tag/v0.5.0-UPDATE.6)
 
 本函式庫主要針對 [上海仰邦](http://www.onbonbx.com/) 五代單基色與雙基色顯示屏控制器進行控制與節目的下載，用戶可透過此 API 進行二次開發與系統整合。
 
